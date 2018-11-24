@@ -48,40 +48,40 @@ var linkMenu = [
   [svgTrash,                   "blue",                                        "-HEAD-"], // Trashy Stuff
   ["lgbt.io",         "http://lgbt.io",""],
   ["catgirl.science",          "http://catgirl.science",""],
-  ["MyAnimeList",              "",""],
-  ["Nyaa Tracker",             "",""],
+  ["MyAnimeList",              "https://myanimelist.net/",""],
+  ["Nyaa.se",             "https://www.nyaa.se/",""],
 
   [svgSocial,                  "green",                                       "-HEAD-"], // Media
-  ["YouTube",                  "",""],
-  ["Facebook",                 "",""],
-  ["Reddit",                   "",""],
-  ["Twitch",                   "",""],
-  ["DeviantArt",               "",""],
+  ["YouTube",                  "https://www.youtube.com/",""],
+  ["Facebook",                 "https://www.facebook.com/?ref=logo",""],
+  ["Reddit",                   "https://reddit.com/",""],
+  ["Twitch",                   "https://twitch.tv",""],
+  ["Tumblr",               "https://tumblr.com",""],
 
   [svgClover,                  "cyan",                                        "-HEAD-"], // 4chan
-  ["/a/ Anime & Manga",        "",""],
-  ["/g/ Technology",           "",""],
-  ["/w/ Anime/Wallpapers",     "",""],
-  ["/wg/ Wallpaper/General",   "",""],
+  ["/a/ Anime & Manga",        "https://4chan.org/a/",""],
+  ["/g/ Technology",           "https://4chan.org/g/",""],
+  ["/w/ Anime/Wallpapers",     "https://4chan.org/w/",""],
+  ["/wg/ Wallpaper/General",   "https://4chan.org/wg/",""],
 
   [svgCode,                    "red",                                         "-HEAD-"], // Code Stuff
-  ["GitHub",                   "",""],
-  ["Gist",                     "",""],
-  ["JSFiddle",                 "",""],
-  ["Stack Overflow",           "",""],
+  ["GitHub",                   "https://github.io",""],
+  ["Gist",                     "https://gist.github.com/discover",""],
+  ["JSFiddle",                 "https://jsfiddle.net/",""],
+  ["Stack Overflow",           "https://stackoverflow.com/",""],
 
   [svgGamepad,                 "magenta",                                     "-HEAD-"], // Gaming
-  ["Steam",                    "",""],
-  ["Humble Bundle",            "",""],
-  ["GOG.com",                  "",""],
-  ["/r/gaming",                "",""],
+  ["Steam",                    "https://store.steampowered.com/",""],
+  ["Humble Bundle",            "https://www.humblebundle.com/",""],
+  ["GOG.com",                  "https://www.gog.com/",""],
+  ["/r/gaming",                "https://reddit.com/r/gaming",""],
 
   [svgMore,                    "yellow",                                      "-HEAD-"], // Other
-  ["Gmail",                    "",""],
-  ["Amazon",                   "",""],
-  ["Dropbox",                  "",""],
-  ["Netflix",                  "",""],
-  ["Weather",                  "",""],
+  ["Gmail",                    "https://mail.google.com/mail/u/0/#inbox",""],
+  ["Amazon",                   "https://www.amazon.com.au/",""],
+  ["Google Drive",                  "https://www.google.com/drive/",""],
+  ["Netflix",                  "https://www.netflix.com/",""],
+  ["Weather",                  "https://darksky.net/forecast/-30.4125,151.9401/ca12/en",""],
 ];
 // DID I FORGET TO MENTION?! THE DEMO LINKS DO NOTHING!
 
