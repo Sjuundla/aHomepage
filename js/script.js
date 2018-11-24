@@ -164,7 +164,7 @@ function handleQuery(event, query) {
           keyword = cmdPrefix + searchSources[i][0];
           if (keyword === qList[0]) {
             ssi = i;
-            searchInput.placeholder = searchSources[ssi][2];
+            searchInput.placeholder = searchSources[ssi][1];
             searchInput.value = query.replace(keyword, "").trim();
             event.preventDefault();
             break;
