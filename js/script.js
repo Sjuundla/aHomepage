@@ -52,7 +52,7 @@ var linkMenu = [
   ["Nyaa.se",             "https://www.nyaa.se/",""],
 
   [svgSocial,                  "green",                                       "-HEAD-"], // Media
-  ["YouTube",                  "https://www.youtube.com/",""],
+  ["YouTube",                  "https://www.youtube.com",""],
   ["Facebook",                 "https://www.facebook.com/?ref=logo",""],
   ["Reddit",                   "https://reddit.com/",""],
   ["Twitch",                   "https://twitch.tv",""],
