@@ -81,7 +81,7 @@ var linkMenu = [
   ["Amazon",                   "https://www.amazon.com.au/",""],
   ["Google Drive",                  "https://www.google.com/drive/",""],
   ["Netflix",                  "https://www.netflix.com/",""],
-  ["Weather",                  "https://darksky.net/forecast/-30.4125,151.9401/ca12/en",""],
+  ["Weather",                  "https://darksky.net/forecast/-30.524,151.6451/ca12/en",""],
 ];
 // DID I FORGET TO MENTION?! THE DEMO LINKS DO NOTHING!
 
@@ -107,7 +107,7 @@ function init() {
 
 function initSearchBar() {
   if (searchSources[ssi] !== undefined)
-    searchInput.placeholder = searchSources[ssi][1];
+    searchInput.placeholder = searchSources[ssi][2];
   else {
     ssi = 0;
     searchInput.placeholder = "Do you know what you're doing?";
@@ -164,7 +164,7 @@ function handleQuery(event, query) {
           keyword = cmdPrefix + searchSources[i][0];
           if (keyword === qList[0]) {
             ssi = i;
-            searchInput.placeholder = searchSources[ssi][1];
+            searchInput.placeholder = searchSources[ssi][2];
             searchInput.value = query.replace(keyword, "").trim();
             event.preventDefault();
             break;
