@@ -107,7 +107,7 @@ function init() {
 
 function initSearchBar() {
   if (searchSources[ssi] !== undefined)
-    searchInput.placeholder = searchSources[ssi][2];
+    searchInput.placeholder = searchSources[ssi][1];
   else {
     ssi = 0;
     searchInput.placeholder = "Do you know what you're doing?";
