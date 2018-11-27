@@ -79,7 +79,7 @@ var linkMenu = [
   [svgMore,                    "yellow",                                      "-HEAD-"], // Other
   ["Gmail",                    "https://mail.google.com/mail/u/0/#inbox",""],
   ["Amazon",                   "https://www.amazon.com.au/",""],
-  ["Google Drive",                  "https://www.google.com/drive/",""],
+  ["Google Drive",                  "https://drive.google.com/drive/u/1/my-drive",""],
   ["Netflix",                  "https://www.netflix.com/",""],
   ["Weather",                  "https://darksky.net/forecast/-30.524,151.6451/ca12/en",""],
 ];
