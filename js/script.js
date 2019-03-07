@@ -74,7 +74,7 @@ var linkMenu = [
   ["Steam",                    "https://store.steampowered.com/",""],
   ["Humble Bundle",            "https://www.humblebundle.com/",""],
   ["GOG.com",                  "https://www.gog.com/",""],
-  ["/r/gaming",                "https://reddit.com/r/gaming",""],
+  ["/r/gaming",                "https://azgaar.github.io/Fantasy-Map-Generator/",""],
 
   [svgMore,                    "yellow",                                      "-HEAD-"], // Other
   ["Gmail",                    "https://mail.google.com/mail/u/0/#inbox",""],
