@@ -46,17 +46,17 @@ var svgTrash   = "<svg style=\"width:24px;height:24px\" xmlns=\"http://www.w3.or
 // Also yes I could totally use a json object to represent the menus, but I didn't feel like reprogramming the whole script. Probably doing that next site, though.
 var linkMenu = [
   [svgTrash,                   "blue",                                        "-HEAD-"], // Trashy Stuff
-  ["lgbt.io",         "http://lgbt.io",""],
+  ["lgbt.io",                  "http://lgbt.io",""],
   ["catgirl.science",          "http://catgirl.science",""],
   ["MyAnimeList",              "https://myanimelist.net/",""],
-  ["Nyaa.se",             "https://www.nyaa.se/",""],
+  ["Nyaa.se",                  "https://www.nyaa.se/",""],
 
   [svgSocial,                  "green",                                       "-HEAD-"], // Media
   ["YouTube",                  "https://www.youtube.com",""],
   ["Facebook",                 "https://www.facebook.com/messages",""],
   ["Reddit",                   "https://reddit.com/",""],
   ["Twitch",                   "https://twitch.tv",""],
-  ["Twitter",               "https://twitter.com/",""],
+  ["Twitter",                  "https://twitter.com/",""],
 
   [svgClover,                  "cyan",                                        "-HEAD-"], // 4chan
   ["/a/ Anime & Manga",        "https://4chan.org/a/",""],
@@ -79,7 +79,7 @@ var linkMenu = [
   [svgMore,                    "yellow",                                      "-HEAD-"], // Other
   ["Gmail",                    "https://mail.google.com/mail/u/0/#inbox",""],
   ["Amazon",                   "https://www.amazon.com.au/",""],
-  ["Google Drive",                  "https://drive.google.com/drive/u/1/my-drive",""],
+  ["Google Drive",             "https://drive.google.com/drive/u/1/my-drive",""],
   ["Netflix",                  "https://www.netflix.com/",""],
   ["Weather",                  "https://darksky.net/forecast/-30.524,151.6451/ca12/en",""],
 ];
