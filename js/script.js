@@ -53,10 +53,10 @@ var linkMenu = [
 
   [svgSocial,                  "green",                                       "-HEAD-"], // Media
   ["YouTube",                  "https://www.youtube.com",""],
-  ["Facebook",                 "https://www.facebook.com/?ref=logo",""],
+  ["Facebook",                 "https://www.facebook.com/messages",""],
   ["Reddit",                   "https://reddit.com/",""],
   ["Twitch",                   "https://twitch.tv",""],
-  ["Tumblr",               "https://tumblr.com",""],
+  ["Twitter",               "https://twitter.com/",""],
 
   [svgClover,                  "cyan",                                        "-HEAD-"], // 4chan
   ["/a/ Anime & Manga",        "https://4chan.org/a/",""],
