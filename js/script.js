@@ -45,7 +45,7 @@ var svgTrash   = "<svg style=\"width:24px;height:24px\" xmlns=\"http://www.w3.or
 */
 // Also yes I could totally use a json object to represent the menus, but I didn't feel like reprogramming the whole script. Probably doing that next site, though.
 var linkMenu = [
-  [svgTrash,                   "blue",                                        "-HEAD-"], // Trashy Stuff
+  [svgTrash,                   "blue",                                        "-HEAD-"], // Trashy & Transy Stuff
   ["lgbt.io",                  "http://lgbt.io",""],
   ["catgirl.science",          "http://catgirl.science",""],
   ["MyAnimeList",              "https://myanimelist.net/",""],
@@ -70,10 +70,10 @@ var linkMenu = [
   ["JSFiddle",                 "https://jsfiddle.net/",""],
   ["Stack Overflow",           "https://stackoverflow.com/",""],
 
-  [svgGamepad,                 "magenta",                                     "-HEAD-"], // Gaming
-  ["Steam",                    "https://store.steampowered.com/",""],
-  ["Humble Bundle",            "https://www.humblebundle.com/",""],
-  ["GOG.com",                  "https://www.gog.com/",""],
+  [svgGamepad,                 "magenta",                                     "-HEAD-"], // DnD Stuffs
+  ["Character Gen",            "http://www.fastcharacter.com/",""],
+  ["Roll20",                   "https://roll20.net/",""],
+  ["City Generator"            "https://watabou.itch.io/medieval-fantasy-city-generator/",""],
   ["Map Editor",               "https://azgaar.github.io/Fantasy-Map-Generator/",""],
 
   [svgMore,                    "yellow",                                      "-HEAD-"], // Other
