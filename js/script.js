@@ -73,7 +73,7 @@ var linkMenu = [
   [svgGamepad,                 "magenta",                                     "-HEAD-"], // DnD Stuffs
   ["Character Gen",            "http://www.fastcharacter.com/",""],
   ["Roll20",                   "https://roll20.net/",""],
-  ["City Generator"            "https://watabou.itch.io/medieval-fantasy-city-generator/",""],
+  ["City Generator",           "https://watabou.itch.io/medieval-fantasy-city-generator/",""],
   ["Map Editor",               "https://azgaar.github.io/Fantasy-Map-Generator/",""],
 
   [svgMore,                    "yellow",                                      "-HEAD-"], // Other
