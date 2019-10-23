@@ -21,7 +21,7 @@ var searchSources = [
   ["d",        "https://duckduckgo.com/?q={Q}",                          "DDG"],
   ["gi",       "https://www.google.com/search?tbm=isch&q={Q}",           "google_logo Images"],
   ["imdb",     "http://www.imdb.com/find?q={Q}",                         "IMDB"],
-  ["nya",      "https://www.nyaa.se/?page=search&term={Q}",              "Nyaa Torrents"],
+  ["nya",      "https://www.nyaa.si/?page=search&term={Q}",              "Nyaa Torrents"],
   ["ud",       "http://www.urbandictionary.com/define.php?term={Q}",     "Urban Dictionary"],
   ["wp",       "http://en.wikipedia.org/w/index.php?search={Q}",         "Wikipedia"],
   ["yt",       "https://www.youtube.com/results?search_query={Q}",       "YouTube"]
@@ -49,7 +49,7 @@ var linkMenu = [
   ["lgbt.io",                  "http://lgbt.io",""],
   ["catgirl.science",          "http://catgirl.science",""],
   ["MyAnimeList",              "https://myanimelist.net/",""],
-  ["Nyaa.se",                  "https://www.nyaa.se/",""],
+  ["Nyaa",                     "https://www.nyaa.si/",""],
 
   [svgSocial,                  "green",                                       "-HEAD-"], // Media
   ["YouTube",                  "https://www.youtube.com",""],
