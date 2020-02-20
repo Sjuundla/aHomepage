@@ -65,7 +65,7 @@ var linkMenu = [
   ["/wg/ Wallpaper/General",   "https://4chan.org/wg/",""],
 
   [svgCode,                    "red",                                         "-HEAD-"], // School Stuff
-  ["GitHub",                   "https://github.io",""],
+  ["Sportal",                   "https://sportal.cqu.edu.au/",""],
   ["Moodle",                   "https://moodle.cqu.edu.au/my/",""],
   ["MyCentre",                 "https://mycentre.cqu.edu.au/",""],
   ["Course Plan",              "https://sportal.cqu.edu.au/__data/assets/pdf_file/0030/87816/CQ18-Bachelor-of-Information-Technology-Business-Analysis-Major.pdf",""],
