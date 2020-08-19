@@ -81,7 +81,7 @@ var linkMenu = [
   ["Amazon",                   "https://www.amazon.com.au/",""],
   ["Google Drive",                  "https://www.google.com/drive/",""],
   ["Netflix",                  "https://www.netflix.com/",""],
-  ["Weather",                  "https://darksky.net/forecast/-30.4125,151.9401/ca12/en",""],
+  ["Weather",                  "https://darksky.net/forecast/-32.9609,151.6957/ca12/en",""],
 ];
 // DID I FORGET TO MENTION?! THE DEMO LINKS DO NOTHING!
 
