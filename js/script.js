@@ -71,10 +71,9 @@ var linkMenu = [
   ["Stack Overflow",           "https://stackoverflow.com/",""],
 
   [svgGamepad,                 "magenta",                                     "-HEAD-"], // Gaming
-  ["Steam",                    "https://store.steampowered.com/",""],
-  ["Humble Bundle",            "https://www.humblebundle.com/",""],
-  ["GOG.com",                  "https://www.gog.com/",""],
-  ["/r/gaming",                "https://reddit.com/r/gaming",""],
+  ["CoinSpot",                 "https://www.coinspot.com.au/my/dashboard",""],
+  ["Raven",                    "https://ravencoin.flypool.org/miners/RVD1pBNK5ky7Z6oRCRtV5H8no5myrJPZts/dashboard",""],
+  ["NiceHash",                 "https://www.nicehash.com/my/mining/rigs",""],
 
   [svgMore,                    "yellow",                                      "-HEAD-"], // Other
   ["Gmail",                    "https://mail.google.com/mail/u/0/#inbox",""],
