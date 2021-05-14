@@ -70,11 +70,10 @@ var linkMenu = [
   ["MyCentre",                 "https://mycentre.cqu.edu.au/",""],
   ["Course Plan",              "https://sportal.cqu.edu.au/__data/assets/pdf_file/0030/87816/CQ18-Bachelor-of-Information-Technology-Business-Analysis-Major.pdf",""],
 
-  [svgGamepad,                 "magenta",                                     "-HEAD-"], // DnD Stuffs
-  ["Character Gen",            "http://www.fastcharacter.com/",""],
-  ["Roll20",                   "https://roll20.net/",""],
-  ["City Generator",           "https://watabou.itch.io/medieval-fantasy-city-generator/",""],
-  ["Map Editor",               "https://azgaar.github.io/Fantasy-Map-Generator/",""],
+  [svgGamepad,                 "magenta",                                     "-HEAD-"], // crypto
+  ["CoinSpot",                 "https://www.coinspot.com.au/my/dashboard",""],
+  ["Raven",                    "https://ravencoin.flypool.org/miners/RVD1pBNK5ky7Z6oRCRtV5H8no5myrJPZts/dashboard",""],
+  ["NiceHash",                 "https://www.nicehash.com/my/mining/rigs",""],
 
   [svgMore,                    "yellow",                                      "-HEAD-"], // Other
   ["Gmail",                    "https://mail.google.com/mail/u/0/#inbox",""],
