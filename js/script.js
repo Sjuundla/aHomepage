@@ -67,7 +67,7 @@ var linkMenu = [
   [svgCode,                    "red",                                         "-HEAD-"], // School Stuff
   ["UQ Portal",                "https://portal.my.uq.edu.au/#/dashboard",""],
   ["Staff Emails",             "https://outlook.office.com/mail/inbox",""],
-  ["dummy",                    "",""],
+  ["Sharepoint(KB)",               "https://sharepoint.uq.edu.au",""],
   ["dummy",                    "",""],
 
   [svgGamepad,                 "magenta",                                     "-HEAD-"], // crypto
