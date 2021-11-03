@@ -67,8 +67,8 @@ var linkMenu = [
   [svgCode,                    "red",                                         "-HEAD-"], // School Stuff
   ["UQ Portal",                "https://portal.my.uq.edu.au/#/dashboard",""],
   ["Staff Emails",             "https://outlook.office.com/mail/inbox",""],
-  ["Sharepoint(KB)",               "https://sharepoint.uq.edu.au",""],
-  ["dummy",                    "",""],
+  ["Sharepoint(KB)",           "https://sharepoint.uq.edu.au",""],
+  ["Timesheets(vpn)",          "https://timesheet.its.uq.edu.au/jtcgi/wtlogin.pyc?jxtcprn=157969",""],
 
   [svgGamepad,                 "magenta",                                     "-HEAD-"], // crypto
   ["CoinSpot",                 "https://www.coinspot.com.au/my/dashboard",""],
